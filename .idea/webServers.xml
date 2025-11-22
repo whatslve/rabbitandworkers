@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9421549f-295a-4dc2-a7f8-72be8dbaebe3" name="deb13">
+        <fileTransfer rootFolder="/home/whatslve/web/eventbus" accessType="SFTP" host="192.168.1.117" port="22" sshConfigId="dd5b5efe-c039-4421-8702-3a9971a7fe59" sshConfig="whatslve@192.168.1.117:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
